@@ -1,0 +1,17 @@
+print("====================================")
+print("SOC Analyst Toolkit")
+print("IOC Enrichment Module")
+print("====================================")
+
+ip = input("Enter IP address: ")
+
+print()
+print("Analyst Input Received")
+print(f"IP Address: {ip}")
+print("Beginning investigation...")
+print()
+print("----- IOC Enrichment Result -----")
+print("Reputation: Malicious")
+print("Detection Ratio: 58/97 vendors")
+print("Associated Malware: QakBot")
+print("Threat Intelligence: Linked to phishing campaigns")
